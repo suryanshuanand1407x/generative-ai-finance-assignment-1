@@ -1,0 +1,11 @@
+{
+  "vocab_size": 9000,
+  "min_frequency": 2,
+  "lowercase": false,
+  "special_tokens": [
+    "<pad>",
+    "<unk>",
+    "<s>",
+    "</s>"
+  ]
+}
