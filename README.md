@@ -158,8 +158,3 @@ Additional samples can be appended to `samples.txt` for qualitative analysis and
 - [ ] `Rollno_Name_Assignment1.zip` packaging (to be generated after final report)
 
 ---
-
-## License
-
-This project builds on the publicly available earnings-call transcripts dataset (see `dataset_finance/LICENSE`). All newly created code in this repository is released under the MIT License unless otherwise specified.
-# generative-ai-finance-assignment-1
